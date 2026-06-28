@@ -1,6 +1,4 @@
 # LeetCode-SQL
-Problems Which I Will Solve in LeetCode SQL  
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
